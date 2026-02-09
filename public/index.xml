@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
       <title>melloCoding Blog</title>
-      <link>https://quartz.jzhao.xyz</link>
+      <link>https://dev.mellocoding.com</link>
       <description>Last 10 notes on melloCoding Blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>openHitbox</title>
-    <link>https://quartz.jzhao.xyz/openHitbox/</link>
-    <guid>https://quartz.jzhao.xyz/openHitbox/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 09 Feb 2026 03:22:04 GMT</pubDate>
-  </item><item>
     <title>Blog Home</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://dev.mellocoding.com/</link>
+    <guid>https://dev.mellocoding.com/</guid>
     <description><![CDATA[ melloCoding Blog Where I will provide updates and documentation on my projects and other things I am currently working on like openHitbox. ]]></description>
-    <pubDate>Mon, 09 Feb 2026 03:05:15 GMT</pubDate>
+    <pubDate>Mon, 09 Feb 2026 03:23:22 GMT</pubDate>
+  </item><item>
+    <title>openHitbox</title>
+    <link>https://dev.mellocoding.com/openHitbox/</link>
+    <guid>https://dev.mellocoding.com/openHitbox/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 09 Feb 2026 03:23:22 GMT</pubDate>
   </item>
     </channel>
   </rss>
