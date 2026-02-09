@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Blog Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# melloCoding Blog
+Where I will provide updates and documentation on my projects and other things I am currently working on like [[openHitbox]]
