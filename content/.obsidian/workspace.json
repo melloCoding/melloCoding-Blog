@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68561cd672247e31",
+        "id": "40254afebffd5ba6",
         "type": "tabs",
         "children": [
           {
-            "id": "6eed32a17253f5a3",
+            "id": "4229b83533f2c1f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6eed32a17253f5a3",
+  "active": "4229b83533f2c1f0",
   "lastOpenFiles": [
     "openHitbox/index.md",
     "index.md",
