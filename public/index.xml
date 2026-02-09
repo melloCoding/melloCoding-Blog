@@ -6,17 +6,23 @@
       <description>Last 10 notes on melloCoding Blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>openHitbox</title>
-    <link>https://blog.mellocoding.com/openHitbox/openHitboxindex</link>
-    <guid>https://blog.mellocoding.com/openHitbox/openHitboxindex</guid>
-    <description><![CDATA[ Work in progress. ]]></description>
-    <pubDate>Mon, 09 Feb 2026 11:20:51 GMT</pubDate>
+    <title>Contact Me</title>
+    <link>https://blog.mellocoding.com/Contactme</link>
+    <guid>https://blog.mellocoding.com/Contactme</guid>
+    <description><![CDATA[ If you have any questions or comments you can contact me at me@mellocoding.com Return home. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 12:48:55 GMT</pubDate>
   </item><item>
     <title>Blog Home</title>
     <link>https://blog.mellocoding.com/</link>
     <guid>https://blog.mellocoding.com/</guid>
     <description><![CDATA[ melloCoding Blog Where I will provide updates and documentation on my projects and other things I am currently working on like openHitbox. ]]></description>
-    <pubDate>Mon, 09 Feb 2026 11:11:13 GMT</pubDate>
+    <pubDate>Mon, 09 Feb 2026 11:21:08 GMT</pubDate>
+  </item><item>
+    <title>openHitbox</title>
+    <link>https://blog.mellocoding.com/openHitbox/openHitboxindex</link>
+    <guid>https://blog.mellocoding.com/openHitbox/openHitboxindex</guid>
+    <description><![CDATA[ openHitbox openHit box is as it describes at hitbox syle controller. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 11:21:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
