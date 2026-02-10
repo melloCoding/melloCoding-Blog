@@ -1,11 +1,15 @@
+import { Background } from "lightningcss";
 import { PageLayout, SharedLayout } from "./quartz/cfg";
 import * as Component from "./quartz/components";
+import BackgroundBlob from "./quartz/components/background-blob"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    BackgroundBlob,
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/melloCoding/melloCoding-Blog",

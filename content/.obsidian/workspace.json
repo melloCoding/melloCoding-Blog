@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "openHitbox/openHitbox-V1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "openHitbox-V1"
             }
           }
         ]
@@ -182,8 +182,21 @@
   },
   "active": "4229b83533f2c1f0",
   "lastOpenFiles": [
-    "openHitbox/index.md",
+    "darkbg/blob5.svg",
+    "darkbg/blob4.svg",
+    "darkbg/blob3.svg",
+    "darkbg/blob2.svg",
+    "darkbg/blob1.svg",
+    "darkbg",
     "index.md",
+    "Contactme.md",
+    "openHitbox/openHitbox-V1.md",
+    "openHitbox/openHitboxindex.md",
+    "images/hitbox v1.png",
+    "images/IMG_5568 1.png",
+    "images",
+    "Untitled.md",
+    "openHitbox/index.md",
     "openHitbox.md"
   ]
 }
