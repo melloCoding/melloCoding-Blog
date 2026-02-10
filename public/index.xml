@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>melloCoding Blog</title>
+      <title>melloCoding</title>
       <link>https://blog.mellocoding.com</link>
-      <description>Last 10 notes on melloCoding Blog</description>
+      <description>Last 10 notes on melloCoding</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>openHitbox v1</title>
     <link>https://blog.mellocoding.com/openHitbox/openHitbox-V1</link>
     <guid>https://blog.mellocoding.com/openHitbox/openHitbox-V1</guid>
     <description><![CDATA[  The first version of openHitbox that I made in one weekend using parts on hand this version is powered by a Raspberry Pi Pico W. ]]></description>
-    <pubDate>Tue, 10 Feb 2026 00:21:23 GMT</pubDate>
+    <pubDate>Tue, 10 Feb 2026 01:21:56 GMT</pubDate>
   </item><item>
     <title>openHitbox</title>
     <link>https://blog.mellocoding.com/openHitbox/openHitboxindex</link>
     <guid>https://blog.mellocoding.com/openHitbox/openHitboxindex</guid>
     <description><![CDATA[ openHitbox openHit box is as it describes at hitbox syle controller. ]]></description>
-    <pubDate>Mon, 09 Feb 2026 13:24:00 GMT</pubDate>
+    <pubDate>Tue, 10 Feb 2026 01:21:56 GMT</pubDate>
   </item><item>
     <title>Contact Me</title>
     <link>https://blog.mellocoding.com/Contactme</link>

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "melloCoding Blog",
+    pageTitle: "melloCoding",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -30,7 +30,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          lightgray: "#c4c3c3",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#181818",          // closest to --color-base-100 (dark background)
+          lightgray: "#555555",      // closer to --color-base-200 / base-300
+          gray: "#747272",            // neutral gray for UI elements
+          darkgray: "#d4d4d4",        // --color-base-content for text
+          dark: "#ebebec",            // not in DaisyUI, approximate lighter text/bg
+          secondary: "#ea6947",       // from --color-secondary
+          tertiary: "#7c909a",        // from --color-info
+          highlight: "rgba(143, 159, 169, 0.15)",  // keep as is
+          textHighlight: "#ea6947aa"  // --color-accent with some transparency
         },
       },
     },
