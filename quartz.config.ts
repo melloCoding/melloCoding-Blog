@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 /**
  * Quartz 4 Configuration
@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "blog.mellocoding.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -40,15 +38,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#181818",          // closest to --color-base-100 (dark background)
-          lightgray: "#555555",      // closer to --color-base-200 / base-300
-          gray: "#747272",            // neutral gray for UI elements
-          darkgray: "#d4d4d4",        // --color-base-content for text
-          dark: "#ebebec",            // not in DaisyUI, approximate lighter text/bg
-          secondary: "#ea6947",       // from --color-secondary
-          tertiary: "#7c909a",        // from --color-info
-          highlight: "rgba(143, 159, 169, 0.15)",  // keep as is
-          textHighlight: "#ea6947aa"  // --color-accent with some transparency
+          light: "#181818", // closest to --color-base-100 (dark background)
+          lightgray: "#555555", // closer to --color-base-200 / base-300
+          gray: "#747272", // neutral gray for UI elements
+          darkgray: "#d4d4d4", // --color-base-content for text
+          dark: "#ebebec", // not in DaisyUI, approximate lighter text/bg
+          secondary: "#ea6947", // from --color-secondary
+          tertiary: "#7c909a", // from --color-info
+          highlight: "rgba(143, 159, 169, 0.15)", // keep as is
+          textHighlight: "#ea6947aa", // --color-accent with some transparency
         },
       },
     },
@@ -92,6 +90,6 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
-}
+};
 
-export default config
+export default config;
